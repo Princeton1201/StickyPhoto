@@ -1,0 +1,31 @@
+メモアプリ(写真付き)
+
+■機能
+○メモ画面(MainActivity)　：A
+　・メモ一覧表示
+　・メモ新規作成
+　・メモ編集
+　・メモ削除
+
+○メモ編集画面　：A
+　・タイトル、本文テキスト入力
+　・写真選択
+　・本文の表示位置変更
+　・本文のテキストカラー変更
+
+○ウィジェット画面
+　・本文、写真の表示
+
+○DB
+　・DB操作、管理
+
+■メモ
+　・StickyPhotoActivity                 ：メモ一覧画面
+　・StickyPhotoDetailActivity           ：メモ詳細画面
+　・StickyPhotoEditActivity             ：メモ編集画面
+　・StickyPhotoWidget                   ：ウィジェット
+　・StickyPhotoWidgetSettingActivity    ：ウィジェット
+　・Utils                               ：共通処理
+　・UtilSharedPreferences               ：データ管理
+
+
