@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    >
+
+    <Button
+        android:id="@+id/new_item"
+        android:layout_width="fill_parent"
+        android:layout_height="80dip"
+        android:text="@string/new_item"
+        android:textSize="18dip"
+        />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dip"
+        android:layout_marginRight="3dip"
+        android:background="#94cb08"
+        android:divider="#FFFFFF"
+        android:dividerHeight="3dip"
+        />
+
+</LinearLayout>

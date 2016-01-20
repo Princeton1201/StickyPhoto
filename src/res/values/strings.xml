@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, StickyPhotoActivity!</string>
+    <string name="app_name">StickyPhoto</string>
+
+    <!-- label_activity -->
+    <string name="label_list_activity">登録メモ一覧</string>
+    <string name="label_detail_activity">登録メモ詳細</string>
+    <string name="label_edit_activity">登録メモ編集</string>
+
+    <!-- list -->
+    <string name="new_item">新規作成</string>
+
+    <!-- list detail -->
+
+    <!-- list edit -->
+    <string name="item_title_text">タイトル</string>
+    <string name="item_title_hint">タイトルを入力</string>
+
+    <string name="item_memo_text">メモ</string>
+    <string name="item_memo_hint">メモを入力</string>
+
+    <string name="item_image_text">画像</string>
+
+    <string name="bottun_cancel_text">キャンセル</string>
+    <string name="bottun_done_text">OK</string>
+</resources>
